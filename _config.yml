@@ -4,7 +4,7 @@ email:       wilson0205@gmail.com
 author:      Wilson Tjandra
 description: "Land of Vegas for AI."
 baseurl:     "/ai.vegas"
-url:         "http://wilson0205.github.io"
+url:         "http://ai.vegas"
 date_format: "%b %-d, %Y"
 
 # Google services
